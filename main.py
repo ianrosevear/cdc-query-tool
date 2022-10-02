@@ -33,9 +33,9 @@ query_list = [
     #  filename],         # what you want the file to be renamed to after it is downloaded
 
     # example arrays:
-    ['Ten-Year', 'All Ages', 'All Genders', 'All Origins', 'All Races', 'All Dates', 'All Causes of Death', 'All Causes of Death', 'all-of-everything'],
-    ['Infant', '< 1', 'Male', 'All Origins', 'All Races', '2010', 'Suicide', 'Firearm', '2010-black-infant-firearm-suicides'],
-    ['Five-Year', '10-14', 'Female', 'Not Hispanic', 'Black', '2011-2020', 'Homicide', 'Firearm', 'test-file-a']
+    # ['Ten-Year', 'All Ages', 'All Genders', 'All Origins', 'All Races', 'All Dates', 'All Causes of Death', 'All Causes of Death', 'all-of-everything'],
+    # ['Infant', '< 1', 'Male', 'All Origins', 'All Races', '2010', 'Suicide', 'Firearm', '2010-black-infant-firearm-suicides'],
+    # ['Five-Year', '10-14', 'Female', 'Not Hispanic', 'Black', '2011-2020', 'Homicide', 'Firearm', 'test-file-a']
     
     # -- YOUR ARRAYS HERE --
 
