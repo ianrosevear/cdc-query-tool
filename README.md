@@ -1,7 +1,7 @@
 # Setup
-- Create workspace folder
-  - `mkdir andrew-proj`
-  - `cd andrew-proj`
+- Clone this project
+  - `git clone https://github.com/ianrosevear/cdc-query-tool cdc-query-tool`
+  - `cd cdc-query-tool`
 - Create virtual environment
   - `python3 -m venv venv`
 - Activate virtual environment (remember to deactivate when you are done)
