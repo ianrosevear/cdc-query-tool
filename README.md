@@ -18,7 +18,7 @@
 
 # Usage
 - Navigate terminal to workspace folder
-  - `cd andrew-proj`
+  - `cd cdc-query-tool`
 - Activate virtual environment (remember to deactivate when you are done)
   - `source venv/bin/activate`
 - Modify values in the "MODIFY VALUES HERE" section at the top of `main.py` as needed
